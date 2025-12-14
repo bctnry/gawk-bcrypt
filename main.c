@@ -1,5 +1,3 @@
-#include <asm-generic/errno.h>
-#include <errno.h>
 #ifdef HAVE_CONFIG_H
 #include <config.h>
 #endif
